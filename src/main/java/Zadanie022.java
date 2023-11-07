@@ -1,4 +1,4 @@
-public class Zadanie22 {
+public class Zadanie022 {
     public static void main(String[] args) {
         String product1 = "Mleko";
         String producer1 = "Mlekowita";
